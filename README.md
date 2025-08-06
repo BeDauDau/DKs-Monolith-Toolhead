@@ -19,7 +19,6 @@ I didn't make this CAD except the SLM Sherpa Micro idler and SLM 17-4PH Heatbloc
 | Item                        | Quantity | Description                          | Notes                        |
 |-----------------------------|----------|--------------------------------------|------------------------------|
 | VZbot Hextruder                | 1        |             |                      |
-| Helicoil Inserts            | Varies   | Threaded inserts for mounting        | For improved durability      |
 | CPAP Tubing (15/18mm)       | 1        | Tubing for air flow                  | Compatibility required       |
 | Stepper Motor               | 1        | NEMA 14 or compatible                | For extruder drive           |
 
