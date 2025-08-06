@@ -16,10 +16,10 @@ I didn't make this CAD except the SLM Sherpa Micro idler and SLM 17-4PH Heatbloc
 
 ## Bill of Materials (BOM)
 
-| Item                        | Quantity | Description                          | Links                        |
+| Item                        | Quantity | Description | Links                         |
 |-----------------------------|----------|--------------------------------------|------------------------------|
-| VZbot Hextruder                | 1        |             |  https://e.tb.cn/h.hp8RvvKylydRrXX                    |
-| CPAP Tubing (15/18mm)       | 1        | Tubing for air flow                  |        |
-| Stepper Motor               | 1        | NEMA 14 or compatible                |            |
-
+| VZbot Hextruder             | 1        |             |  https://e.tb.cn/h.hp8RvvKylydRrXX |
+| CPAP Tubing (15/18mm)       | 1        |             |                                    |
+| NEMA 14 Stepper Motor       | 1        |             | https://e.tb.cn/h.hp8RvvKylydRrXX  |
+| Heatcore                    | 1        |             | https://e.tb.cn/h.hKb8KALdhJNO1wQ  |
 ![ISO View](Images/DK%20Toolhead.png)
